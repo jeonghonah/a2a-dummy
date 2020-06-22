@@ -23,5 +23,3 @@ or
 5. `sudo react-native run-ios`
 
 #### sometimes `npm run postinstall` can fix
-
-<img width="483" alt="dummy" src="https://user-images.githubusercontent.com/32922423/79707935-0294df80-82f9-11ea-88b0-80e27d19282e.png">
