@@ -1,5 +1,5 @@
 # A2A Dummy
-Example project for using Klip A2A APIs with react native.
+An example project for using Klip A2A APIs with React Native.
 
 ## clone project
 git clone https://github.com/jeonghonah/a2a-dummy.git
