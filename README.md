@@ -23,3 +23,5 @@ or
 5. `sudo react-native run-ios`
 
 #### sometimes `npm run postinstall` can fix
+
+<img width="491" alt="스크린샷 2020-06-22 오후 2 23 18" src="https://user-images.githubusercontent.com/4974738/85251326-06c5b080-b494-11ea-83f1-b700d830bfc4.png">
