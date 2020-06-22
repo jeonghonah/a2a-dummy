@@ -1,0 +1,17 @@
+{
+  "name": "testCRNA",
+  "displayName": "testCRNA",
+  "expo": {
+    "name": "testCRNA",
+    "slug": "testCRNA",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
